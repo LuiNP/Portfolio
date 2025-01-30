@@ -1,1 +1,1 @@
-A GitHub repository containing a portfolio of my activities in NP
+A GitHub repository containing a portfolio of my activities
