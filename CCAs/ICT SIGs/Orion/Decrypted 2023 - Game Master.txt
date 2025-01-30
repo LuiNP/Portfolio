@@ -1,0 +1,16 @@
+I was part of a group that ran a Game Station for secondary school students participating in Orion’s Decrypted 2024 program.
+
+Responsibilities:
+-Assisting partner in coming up with and adjusting challenges, penalties, rules and rewards for the game
+-Coded a program to automate checking of the submissions
+
+
+Skills:
+-Python
+-Teamwork and Coordination
+-Communication
+-Game Design 
+-Problem-Solving
+-Critical Thinking 
+-Adaptability
+

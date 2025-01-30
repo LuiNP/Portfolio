@@ -1,0 +1,19 @@
+I was part of a group that formulated and made slides for an introductory presentation on Python for secondary school students participating in Orion’s Decrypted 2024 program.
+
+Responsibilities:
+-Explaining Python
+	-Ensure the explanations of the Python topics were accurate and easy to understand and internalise
+	-Research on any Python topics I wasn’t familiar with
+-Making slides
+	-Visually appealing and interesting
+	-Easy to look at and the material easily legible
+	-Coordinate with presenter on any gags to keep audience interest and make presentation memorable
+
+Skills:
+-Designing slides
+-Python
+-Teamwork and Collaboration
+-Communication
+-Attention to Detail
+-Creativity
+-Adaptability
